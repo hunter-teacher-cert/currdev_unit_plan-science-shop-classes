@@ -46,14 +46,14 @@ https://mindstorms.media.mit.edu/
 Total lenght: 2 Weeks (realistically, an ES teacher would try to get it done in 7 or 8 days to keep up with NYS ES curriculum)
 
 (list each lesson with main topic(s))
-day 1. lesson on iteration (loop)
-day 2. lesson on procedure
-day 3. lesson on variable, passing by parameters to procedures
-day 4. lesson on recursion and conditional
-day 5. lesson on constructing a circle
-day 6. lesson on drawing a graph paper for plotting experimentall data - reinforcement on recursion
-day 7. lesson on constructing an elliptical orbit of a planet around the sun
-day 8. lesson on drainage pattern with GIS 3D NetLogo modeling
+- day 1. lesson on iteration (loop)
+- day 2. lesson on procedure
+- day 3. lesson on variable, passing by parameters to procedures
+- day 4. lesson on recursion and conditional
+- day 5. lesson on constructing a circle
+- day 6. lesson on drawing a graph paper for plotting experimentall data - reinforcement on recursion
+- day 7. lesson on constructing an elliptical orbit of a planet around the sun
+- day 8. lesson on drainage pattern with GIS 3D NetLogo modeling
 leave extra 2 days for students to have more time to explore certain topics that they have yet to understand.
 
 
