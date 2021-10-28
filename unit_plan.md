@@ -53,7 +53,7 @@ Total lenght: 2 Weeks (realistically, an ES teacher would try to get it done in 
 - day 5. lesson on constructing a circle
 - day 6. lesson on drawing a graph paper for plotting experimentall data - reinforcement on recursion
 - day 7. lesson on constructing an elliptical orbit of a planet around the sun
-- day 8. lesson on drainage pattern with GIS 3D NetLogo modeling
+- day 8. lesson on drainage pattern with GIS 3D NetLogo modeling  
 leave extra 2 days for students to have more time to explore certain topics that they have yet to understand.
 
 
