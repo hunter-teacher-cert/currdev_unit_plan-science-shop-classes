@@ -1,28 +1,74 @@
-# Unit Plan for Teaching Earth Science with Computer Science   10/3/2021
+# UNIT PLAN: Constructing Computer Animations in Earth Science
 
-## Jovani Cardenas
+by TEAM MEMBERS
 
-## Peter Tsun
+Jovani Cardenas, Peter Tsun
 
-In this unit plan, students learn about some essential ideas in computer science, and apply their newly acquired computer science knowledge to draw an elliptical orbit of a planet going around the sun. Typically in regents earth science, an astronomy unit, which contains elliptical orbit, is the last unit in earth science sequence, but in my school astronomy is the first unit because astronomy piques students’ interests in earth science better than calculating gradient and drawing profiles of a topographic map.
+-----
 
-In earth science, students may see a video clip of computer rendering of planets orbiting around the sun or even play with computer simulations made by other people to show planets orbiting around the sun, but they don’t have the opportunity to build for themselves an animated model of planets orbiting the sun. Some teachers also show physical models of our solar system and emphatically tell students that planets speed up as they are closer to the sun (perihelion)  and planets slow down as they are farther away from the sun (aphelion).
+## General Overview
+(include here description of unit, what class(es) it fits into, when...)
 
- * https://javalab.org/en/solar_system_en/
- * https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html
- * https://ophysics.com/f6.html
+This unit provides students with introduction to key ideas in computer science and skills in logo programming language
+in Earth Science classes during the astronomy unit.
 
-However, just because teachers tell students the facts that will be tested on regents exams, students may not internalize the information as well as if they can build a computer model and see for themselves that the planets do indeed move faster at perihelion and move slower at aphelion. In this proposed unit, students will learn the reason for loop/repetition by drawing a polygon like square, pentagon, triangle, etc. It takes a day just to get everyone to install netlogo on their computers. Once they learn how to draw polygons in two to three days (including the first day of just installing netlogo), students will learn to draw a circle. If the students are advanced, they can learn to fine-tune the circle with the pi formula (𝜋 =Circumference/Diameter)
-within the same day of drawing some random circle.
+---
 
+## Motivation for Unit
+(why have you decided to make this?)
+
+For many students, computers are thought of as consumer electronics, not as a medium for putting their own ideas into reality.
+Students typically do not get to have experience at school or at home to realize that they can actually create useful products themselves.
+This unit is created to make a small dent in helping children think of themselves as creative thinkers who can turn their ideas into reality.
+
+---
+
+## Standards Referenced
+(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
+
+---
+
+## Tools Used
+(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+
+NetLogo
+
+---
+
+## Resources
+(include any links/books/readings to be used during this unit)
+
+https://mindstorms.media.mit.edu/
+
+---
+
+## Lessons
+Total lenght: 2 Weeks (realistically, an ES teacher would try to get it done in 7 or 8 days to keep up with NYS ES curriculum)
+
+(list each lesson with main topic(s))
+day 1. lesson on iteration (loop)
+day 2. lesson on procedure
+day 3. lesson on variable, passing by parameters to procedures
+day 4. lesson on recursion and conditional
+day 5. lesson on constructing a circle
+day 6. lesson on drawing a graph paper for plotting experimentall data - reinforcement on recursion
+day 7. lesson on constructing an elliptical orbit of a planet around the sun
+day 8. lesson on drainage pattern with GIS 3D NetLogo modeling
+leave extra 2 days for students to have more time to explore certain topics that they have yet to understand.
+
+
+---
+
+## Assesments
+(list summative and/or formative assessments used)
+
+---
+
+
+
+Just because teachers tell students the facts that will be tested on regents exams, students may not internalize the information as well as if they can build a computer model and see for themselves that the planets do indeed move faster at perihelion and move slower at aphelion.
 After students can draw circles of certain sizes, teachers can do live coding with students to
 apply Newton’s law of Gravitation (F = G M m /r<sup>2</sup>) to draw an ellipse. Here is the code on the following page:
-
-
-
-
-
-
 
     ; Code for drawing an elliptical orbit
     to setup
@@ -134,8 +180,5 @@ A follow-up to the first attempt is to calculate the eccentricity of the orbit a
         output-type "eccentricity = " output-print eccentricity
         end
 
-So far, this is the proposed plan; if we have only 5 or 6 days worth of lessons, then we can create a lesson of drawing three circles around three seismic stations to determine location of the epicenter. Additional ideas are using a GIS map to show drainage patterns on netlogo 3D.  
-https://www.youtube.com/watch?v=czoPyHx3RZM
+;https://www.youtube.com/watch?v=czoPyHx3RZM
 
-### Rationale for Unit:  
-As stated before students explore superficially the concept of elliptical orbits in astronomy. There are many other concepts in Earth science that fall under similar circumstances. Students can also use seismological data to draw concentric circles and pinpoint the epicenter of an Earthquake. This can be done via computer code as the steps to finding out the epicenter are rigid and are dependent on specific pieces of data offered to the student. Students can also create a code that will output a forecast based on meteorological evidence. A piece of more advanced code can include a rock identifier, where the program can ask you a series of questions in which you can answer yes/no and by going through it, the program will output the name of the rock in which you are attempting to identify. This can be done in a dichotomous key fashion, as all the possible rocks that can be used are listed, identified, and described in detail in the Earth Science Reference Tables, a collection of facts given to the student. 
