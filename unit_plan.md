@@ -25,6 +25,10 @@ This unit is created to make a small dent in helping children think of themselve
 
 ## Standards Referenced
 (select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
+9-12.CT.1 Create a simple digital model that makes predictions of outcomes.
+In these Earth Science computer programming lessons, students will learn how
+to design and implement simple programs that recreate observations of planetary orbits.
+These simple models are attempts to predict how planets will move in the future.
 
 ---
 
