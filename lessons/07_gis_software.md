@@ -29,7 +29,7 @@ Time: 20 minutes
 - Provide your email, and then click **Place Order**
 
 Students opened their email and download the zip file from USDA.
-Students are then instructed to go to the browser panel to drag the tif file combinationthe project area. A new layer will be automatically created.
+Students are then instructed to go to the browser panel to drag the tif file to the project area. A new layer will be automatically created.
 Once students are finished or even if they run into obstacles, students
 are directed to watch a video that explains how to obatin GIS data from
 USDA and USGS: https://youtu.be/VlKkAYoNoRE (Title: Download Free Elevation Data (DEM) from the USGS National Map and NRCS Geospatial Data Gateway).
