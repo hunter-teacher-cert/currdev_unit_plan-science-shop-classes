@@ -25,8 +25,7 @@ sample program for GIS gradients.
 
 ## Lesson Activity  
 Time: 15 minutes
-- Students use the sample program as a guide to recreate the stream flow
-in their own selected map.
+- Students use the sample program called **GIS Gradient Example** in the models library --> Code Examples --> Extension Examples --> gis as a guide to recreate the stream flow for their own selected map.
 - Students examine the sample program and write a detailed explanation of
 how the sample gradient program works to the best of their abilities.
 
