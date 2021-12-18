@@ -1,4 +1,4 @@
-#Project: Visualization of elevation data Map
+# Project: Visualization of elevation data Map
 
 Options:
 - option 1) Build a two-dimensional elevation map
