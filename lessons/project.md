@@ -4,6 +4,14 @@ Options:
 - option 1) Build a two-dimensional elevation map
 - option 2) Build a three-dimensional elevation map
 
+1)  
+
+![2D elevation map](prj1.png)
+
+2)  
+
+![3D elevation map](prj2.png)
+
 To build a 2-d elevation map, review lesson 7 on
 how to obtain GIS elevation data from USDA. Then,
 make use of the sample code below:
