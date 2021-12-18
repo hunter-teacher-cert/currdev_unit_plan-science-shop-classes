@@ -61,7 +61,6 @@ NetLogo
 ## Lessons
 Total lenght: 2 Weeks (realistically, an ES teacher would try to get it done in 7 or 8 days to keep up with NYS ES curriculum)
 
-(list each lesson with main topic(s))
 - day 1. lesson on iteration (loop)
 - day 2. lesson on procedure
 - day 3. lesson on variable, passing by parameters to procedures
