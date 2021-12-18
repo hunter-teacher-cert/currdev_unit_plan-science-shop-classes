@@ -19,9 +19,9 @@ install the qGIS software.
 Time: 20 minutes
 
 ### Elevation Data from GIS interactive map
-- Search for the phrase geospatial data gateway
+- Search for the phrase geospatial data gateway (https://datagateway.nrcs.usda.gov/)
 - Click on **Get Data** button, then click on the green link called HERE
-- Click on **Order by Interactive Map"
+- Click on **Order by Interactive Map**
 - Once you zoom into an area where you want its elevation data
 - Click on Select area button, and select an area of interest with your mouse.
 - Click on accept area, and Check National Elevation Dataset
