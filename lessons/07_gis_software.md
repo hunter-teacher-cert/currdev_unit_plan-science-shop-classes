@@ -53,6 +53,8 @@ prepare the data in a format that NetLogo can understand. (possibly 2 days
 given the time it takes to download GIS software and GIS data and the amount
 of time to replay the video instruction on how to obtain GIS elevation data).
 
+![pic of qgis](Les7.png)
+
 ## Explanation
 The lesson is designed for students who will write program in NetLogo to produce
 virtual models of Earth Science.

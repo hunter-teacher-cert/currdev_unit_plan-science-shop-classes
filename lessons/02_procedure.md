@@ -94,6 +94,7 @@ end
 Students are asked to extend the procedure concept to the construction of
 a house.
 
+![pic of house](Les2.png)
 
 ## Closing  
 Time: 5 minutes  

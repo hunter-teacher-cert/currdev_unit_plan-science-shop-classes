@@ -8,6 +8,7 @@
 
   * **9-12.CT.8** Develop a program that effectively uses control
     structures in order to create a computer program for practical intent
+  * **9-12.IC.7** Investigate the use of computer science in multiple fields.
 
 ## Warm Up:  
 Time: 5 minutes  
@@ -56,7 +57,7 @@ You can call the setup block by typing its name at the command prompt at the bot
 
 Type this code in your computer's NetLogo editor.
 
-
+![repeat demonstration](Les1.png)
 
 ## Lesson Activity  
 Time: 15 minutes  

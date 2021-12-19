@@ -6,8 +6,7 @@
 
 ## NYS COMPUTER SCIENCE AND DIGITAL FLUENCY LEARNING STANDARDS
  * **9-12.IC.7** Investigate the use of computer science in multiple fields.
- * **9-12.CT.4** Implement a program using a combination of student-defined and
-   third-party functions to  organize the computation.
+ * **9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to  organize the computation.
 
 ## Warm Up
 Time: 5 minutes  
@@ -82,7 +81,7 @@ end
 
 ```
 
-Students are asked to set the max px-cor to 30 and max py-cor to 30 in the settings.
+Students are asked to set the max px-cor to 27 and max py-cor to 20 in the settings.
 Let the students know that they should set the go button to be continuous.
 To run this program, tell students that when running setup, have the speed to be faster.
 When running the continuous go procedure, have the speed to be much slower, so
@@ -106,6 +105,7 @@ After measuring the time intervals for aphelion and perihelion, compare
 the speed of the Earth at aphelion and perihelion. Speed is calculated by
 dividing distance traveled by time interval.
 
+![pic for elliptical orbit](Les6.png)
 
 ## Closing  
 Time: 5 minutes  

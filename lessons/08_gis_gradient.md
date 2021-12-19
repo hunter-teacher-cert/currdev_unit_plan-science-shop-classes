@@ -29,6 +29,7 @@ Time: 15 minutes
 - Students examine the sample program and write a detailed explanation of
 how the sample gradient program works to the best of their abilities.
 
+![pic of gradient stream gis](Les8.png)
 
 ## Closing  
 Time: 5 minutes  

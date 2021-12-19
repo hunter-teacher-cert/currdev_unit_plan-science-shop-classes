@@ -8,7 +8,7 @@
  * **9-12.IC.7** Investigate the use of computer science in multiple fields.
  * **9-12.CT.4** Implement a program using a combination of student-defined and
  third-party functions to  organize the computation.
- 
+
 ## Warm Up
 Time: 5 minutes  
 Teacher asks students to type an example of recursion into NetLogo.
@@ -64,6 +64,7 @@ to spiral [length-spiral]
 end
 ```
 
+![pic of recursion](Les4.png)
 
 ## Closing  
 Time: 5 minutes  

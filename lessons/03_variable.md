@@ -155,6 +155,7 @@ to triangle [length-triangle]
 end
 ```
 
+![pic of procedures houses](Les3.png)
 
 ## Closing  
 Time: 5 minutes  
