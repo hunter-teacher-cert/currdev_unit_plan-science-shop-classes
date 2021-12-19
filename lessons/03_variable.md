@@ -6,6 +6,7 @@
 
 ## NYS COMPUTER SCIENCE AND DIGITAL FLUENCY LEARNING STANDARDS
  * **9-12.CT.2** Collect and evaluate data from multiple sources for use in a computational artifact.
+ * **9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to  organize the computation.
 
 ## Warm Up
 Time: 5 minutes  
