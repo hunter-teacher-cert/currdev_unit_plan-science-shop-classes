@@ -53,7 +53,10 @@ NetLogo
 1. Thanks to clouds, new climate simulations predict more warming than predecessors (https://www.imperial.ac.uk/news/194738/thanks-clouds-climate-simulations-predict-more/)
 2. How reliable are climate models? (https://skepticalscience.com/climate-models.htm)
 3. Climate simulations are mostly accurate, study finds (https://apnews.com/article/science-ap-top-news-climate-climate-change-9898308e485f8dea65adb699cb2054a0)
-4. https://mindstorms.media.mit.edu/
+4. Seymour Papert’s Mindstorms 1980 https://mindstorms.media.mit.edu/
+5. NetLogo and QGIS - Converting GIS files to patches in NetLogo https://youtu.be/_qR9lZy6xjE
+6. GIS Tutorial https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2326376819000056/resource/name/S2326376819000056sup001.pdf
+7. b-davies/NetLogo_GIS_tutorial https://zenodo.org/record/1482941#.Yb8p1llOnIU
 
 
 ---
