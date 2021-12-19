@@ -83,6 +83,7 @@ end
 
 Students are asked to set the max px-cor to 27 and max py-cor to 20 in the settings.
 Let the students know that they should set the go button to be continuous.
+Under the view updates in the interactive tab, choose the option on ticks, instead of the option continuous. 
 To run this program, tell students that when running setup, have the speed to be faster.
 When running the continuous go procedure, have the speed to be much slower, so
 it is easier to measure the time interval of a portion of an orbit.
